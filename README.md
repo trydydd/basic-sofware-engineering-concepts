@@ -13,6 +13,7 @@ This guide will introduce you to some of the most common and universal concepts 
 7. [Arrays and Collections](documentation/arrays_and_collections.md)
 8. [Error Handling](documentation/error_handling.md)
 9. [Input and Output](documentation/input_and_output.md)
+10. [Recursion](documentation/recursion.md)
 
 ## Conclusion
 
