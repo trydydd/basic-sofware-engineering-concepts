@@ -12,13 +12,13 @@ Comments are used to explain code and make it more readable. They are ignored by
 
 Comments should be used in code to provide additional information and context about the code. Here are some examples of when comments can be useful:
 
-    To explain the purpose or functionality of a block of code
-    To provide information on the input or output of a function
-    To document the author or date of a piece of code
-    To provide a summary of changes made to a piece of code
-    To provide a warning or note about potential issues or bugs
-    To describe complex algorithms or logic
-    To provide instructions on how to use or modify the code
+- To explain the purpose or functionality of a block of code
+- To provide information on the input or output of a function
+- To document the author or date of a piece of code
+- To provide a summary of changes made to a piece of code
+- To provide a warning or note about potential issues or bugs
+- To describe complex algorithms or logic
+- To provide instructions on how to use or modify the code
 
 Comments should be used sparingly and only when necessary. Over-commenting can make code harder to read and maintain, so it's important to use comments effectively and consistently to make code more understandable and maintainable.
 
