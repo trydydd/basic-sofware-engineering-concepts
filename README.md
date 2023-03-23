@@ -1,4 +1,4 @@
-# Universal Programming Concepts Guide
+# Basic Software Engineering Concepts
 
 This guide will introduce you to some of the most common and universal concepts that are present in almost all programming languages. Understanding these concepts will help you learn and work with different languages more effectively. The examples in this guide use Python due to its simplicity and straight forward syntax.
 
